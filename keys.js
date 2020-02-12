@@ -62,7 +62,7 @@ const optionsLetter = [
     {code:'17', eng:'Cntr', ru:'Cntr',fun:'1'},
     {code:'91',eng:'Win',ru:'Win',fun:'1'},
     {code:'18', eng:'Alt', ru:'Alt',fun:'1'},
-    {code:'32',eng:' ',ru:' '},
+    {code:'32',eng:`\u0020`,ru:'\u0020'},
     {code:'18', eng:'Alt', ru:'Alt',fun:'1'},
     {code:'17',eng:'Cntr',ru:'Cntr',fun:'1'},
     {code:'37', eng:'Left', ru:'Left',fun:'1'},
